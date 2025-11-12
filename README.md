@@ -18,4 +18,4 @@ Aprender a gestionar proyectos de software de forma profesional, utilizando cont
 
 **Autor:** *Daniel Benarroch *  
 **Curso:** 2025/2026  
-**Profesor:** *María Jośé Madrid Montes*  
+**Profesor:** *María José Madrid Montes*  
